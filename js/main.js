@@ -14,7 +14,11 @@
     shareUrl: '',
     // Add your own poster images here. Example:
     // { src: 'assets/posters/poster-01.jpg', alt: 'Poster for ...', title: 'Poster title' }
-    posters: []
+    posters: [
+      { src: 'https://i.postimg.cc/0NHMT2VS/9ecbf61af70944831c1df35a5a214ad0.jpg', alt: 'CREATEV NEXT poster design 1', title: 'Poster Design 01' },
+      { src: 'https://i.postimg.cc/26sq59RH/ea8046278e16d9acdd1b2b50a4642fc9.jpg', alt: 'CREATEV NEXT poster design 2', title: 'Poster Design 02' },
+      { src: 'https://i.postimg.cc/j2yDn6RT/d81cc1eb435bb85d98851fa5f60e5d1c.jpg', alt: 'CREATEV NEXT poster design 3', title: 'Poster Design 03' }
+    ]
   };
 
   var MIN_POSTER_SLOTS = 3; // placeholders fill up to this many tiles
